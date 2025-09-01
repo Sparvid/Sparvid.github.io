@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Empty Github Page</title>
+    <description>TODO: Description for what?
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Sep 2025 16:08:05 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 16:08:05 +0200</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Whatever</title>
+        <description>&lt;p&gt;Testing testing will write very important stuff here soon! Update: No important stuff will ever be written here.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Sep 2025 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2025/09/01/introduction.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/09/01/introduction.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
