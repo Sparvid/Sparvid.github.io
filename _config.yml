@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Empty Github Page
-subtitle: "Because I thought I would use it for something"
+title: Behaviour-Oriented Concurrency
+subtitle: "A project course blog at Uppsala University"
 email: arvid@loren.com
 name: Arvid Lorén
 description: >
