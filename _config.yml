@@ -12,7 +12,7 @@ exclude:
 title: Behaviour-Oriented Concurrency
 subtitle: "A project course blog at Uppsala University"
 email: arvid@loren.com
-name: Arvid Lorén
+name: Vanja Borowski & Arvid Lorén
 description: >
   TODO: Description for what?
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/fielder.png"
+cover: "/assets/fielder.jpg"
 logo: "/assets/logo.png"
 
 # Build settings

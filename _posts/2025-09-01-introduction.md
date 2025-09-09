@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction & Specification"
 date:   2025-09-08
-author: Arvid Lorén 
+author: Arvid & Vanja
 ---
 
 In-progress draft of the first post.
@@ -13,9 +13,9 @@ Hello! As a first post of this project blog, we will introduce ourselves just a 
 
 A brief introduction of us as *Individuals*
 
-I'm Arvid. Computer Science Master's student by day, table tennis and video game player by night. I'm not an expert in anything, but interested in various topics, such as verification, programming languages, semantics, and working with kind people.
-
 I'm Vanja. Fastest biker in town. Expert pen tester.
+
+I'm Arvid. Computer Science Master's student by day, table tennis and video game player by night. I'm not an expert in anything, but interested in various topics, such as verification, programming languages, semantics, and working with kind people.
 
 The project we'll be doing is relating to Behaviour-Oriented Concurrency, and research being done on the projects Verona and Pyrona by the Programming Languages group here at UU. Our specification describes the project formally, so anyone interested is encouraged to read that:
 
