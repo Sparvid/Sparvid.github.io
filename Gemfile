@@ -1,9 +1,5 @@
-source 'https://rubygems.org'
-gem 'base64'
-gem 'logger'
-gem 'bigdecimal'
-gem 'kramdown-parser-gfm'
-gem 'jekyll', '<4'
-gem 'jekyll-archives'
-gem 'jekyll-sitemap'
-gem 'jekyll-paginate-v2'
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-feed", group: :jekyll_plugins
+gem "kramdown-parser-gfm"
